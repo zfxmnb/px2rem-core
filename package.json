@@ -1,0 +1,17 @@
+{
+  "name": "px2rem-core",
+  "version": "1.0.0",
+  "description": "px2rem core",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "px2rem",
+    "pxtorem",
+    "rem",
+    "px"
+  ],
+  "author": "fanxingzeng",
+  "license": "ISC"
+}
